@@ -3,7 +3,7 @@ Contributors: Faiza Aziz Khan
 Tags: api, json, json-rest-api, sign up api, login api, REST, wp-api, wp-rest-api, v1
 Requires at least: 4.4
 Tested up to: 5.0
-Stable tag: 0.2
+Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,9 +23,7 @@ The new routes available will be:
 2. Activate the plugin through the 'Plugins' screen in WordPress
 
 
-== Frequently Asked Questions ==
-
-= Is this an official extension of WP API? =
+== Important points to read ==
 
 No, it is not an official plugin of the WP API.
 
@@ -35,7 +33,7 @@ Of course! This is the GitHub Repository: https://github.com/fazzya/wp-rest-api-
 
 == Screenshots ==
 
-Nothing to show. This plugin has no settings or frontend, it just extends WP API with new routes.
+Nothing to show. This plugin has no settings or frontend, it just extends WP API with new routes. you can add your routes and function in it.
 
 == Changelog ==
 
