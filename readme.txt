@@ -29,7 +29,7 @@ No, it is not an official plugin of the WP API.
 
 = Can I contribute to the project? =
 
-Of course! This is the GitHub Repository: https://github.com/fazzya/wp-rest-api-v1
+Of course! This is the GitHub Repository: https://github.com/fazzyA/wp-rest-api-v1
 
 == Screenshots ==
 
